@@ -11,7 +11,7 @@ How to contribute on golib:
 ## Installation
 
 ```bash
-$ go get github.com/agung-project/golib
+$ go get github.com/komplek-project/golib
 ```
 
 ## How To Use
