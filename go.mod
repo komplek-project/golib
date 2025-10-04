@@ -1,6 +1,6 @@
 module github.com/komplek-project/golib
 
-go 1.19
+go 1.24
 
 require (
 	github.com/aliyun/aliyun-oss-go-sdk v2.2.2+incompatible
